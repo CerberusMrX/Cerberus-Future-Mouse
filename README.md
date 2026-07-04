@@ -78,7 +78,7 @@ Ensure you have Python 3.8 or higher installed. A dedicated GPU is recommended b
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/cerberus-future-mouse.git
+   git clone https://github.com/cerberusmrx/cerberus-future-mouse.git
    cd cerberus-future-mouse
    ```
 

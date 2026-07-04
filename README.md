@@ -13,8 +13,6 @@ Authored by **Sudeepa Wanigarathna**
 
 <br/>
 
-<!-- Placeholder for a demo GIF or Header Image -->
-![Cerberus Future Mouse Demo](https://via.placeholder.com/800x400.png?text=Cerberus+Future+Mouse+Demo)
 
 </div>
 
